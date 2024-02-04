@@ -2,7 +2,8 @@
 
 - 🔭 Currently working on diverse university coding assignments/cases
 - 🌱 Currently learning about back-end languages and animation-based ones
--  👯 Looking to collaborate on back-end-based projects
+- 👯 Looking to collaborate on back-end-based projects
+- 🌎 Currently located in London, Canada for studies
 <!--
 -
 - 🤔 I’m looking for help with ...
