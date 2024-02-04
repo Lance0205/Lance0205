@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Lance Cheong Youne
 
-- 🔭 I’m currently working on diverse university coding assignments/cases
-- 🌱 I’m currently learning about back-end languages and animation-based ones
--  👯 I’m looking to collaborate on back-end-based projects
+- 🔭 Currently working on diverse university coding assignments/cases
+- 🌱 Currently learning about back-end languages and animation-based ones
+-  👯 Looking to collaborate on back-end-based projects
 <!--
 -
 - 🤔 I’m looking for help with ...
